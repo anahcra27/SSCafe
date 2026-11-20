@@ -1,0 +1,6 @@
+@SSCafe.MenuManagement_HostAddress = http://localhost:5063
+
+GET {{SSCafe.MenuManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

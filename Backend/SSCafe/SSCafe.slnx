@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="F:/onionshop/SS/Backend/SSCafe/SSCafe.APIGateway/SSCafe.APIGateway.csproj" />
+  <Project Path="F:/onionshop/SS/Backend/SSCafe/SSCafe.MenuManagement/SSCafe.MenuManagement.csproj" />
+  <Project Path="F:/onionshop/SS/Backend/SSCafe/SSCafe.UserManagement.Application/SSCafe.UserManagement.Application.csproj" />
+  <Project Path="F:/onionshop/SS/Backend/SSCafe/SSCafe.UserManagement.Domain/SSCafe.UserManagement.Domain.csproj" />
+  <Project Path="F:/onionshop/SS/Backend/SSCafe/SSCafe.UserManagement.Infrastructure/SSCafe.UserManagement.Infrastructure.csproj" />
+  <Project Path="F:/onionshop/SS/Backend/SSCafe/SSCafe.UserManagement/SSCafe.UserManagement.csproj" />
+</Solution>

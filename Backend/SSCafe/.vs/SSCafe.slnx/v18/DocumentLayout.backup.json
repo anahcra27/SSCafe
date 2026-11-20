@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\onionshop\\SS\\Backend\\SSCafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0B127E-F669-3481-E4D1-27295CFDE159}|SSCafe.UserManagement.Infrastructure\\SSCafe.UserManagement.Infrastructure.csproj|f:\\onionshop\\ss\\backend\\sscafe\\sscafe.usermanagement.infrastructure\\sscafe.usermanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C0B127E-F669-3481-E4D1-27295CFDE159}|SSCafe.UserManagement.Infrastructure\\SSCafe.UserManagement.Infrastructure.csproj|solutionrelative:sscafe.usermanagement.infrastructure\\sscafe.usermanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1E544D-9026-38B8-DFED-09448AB7E925}|SSCafe.UserManagement\\SSCafe.UserManagement.csproj|f:\\onionshop\\ss\\backend\\sscafe\\sscafe.usermanagement\\sscafe.usermanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B1E544D-9026-38B8-DFED-09448AB7E925}|SSCafe.UserManagement\\SSCafe.UserManagement.csproj|solutionrelative:sscafe.usermanagement\\sscafe.usermanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SSCafe.UserManagement.csproj",
+              "DocumentMoniker": "F:\\onionshop\\SS\\Backend\\SSCafe\\SSCafe.UserManagement\\SSCafe.UserManagement.csproj",
+              "RelativeDocumentMoniker": "SSCafe.UserManagement\\SSCafe.UserManagement.csproj",
+              "ToolTip": "F:\\onionshop\\SS\\Backend\\SSCafe\\SSCafe.UserManagement\\SSCafe.UserManagement.csproj",
+              "RelativeToolTip": "SSCafe.UserManagement\\SSCafe.UserManagement.csproj",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-20T14:13:06.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SSCafe.UserManagement.Infrastructure.csproj",
+              "DocumentMoniker": "F:\\onionshop\\SS\\Backend\\SSCafe\\SSCafe.UserManagement.Infrastructure\\SSCafe.UserManagement.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "SSCafe.UserManagement.Infrastructure\\SSCafe.UserManagement.Infrastructure.csproj",
+              "ToolTip": "F:\\onionshop\\SS\\Backend\\SSCafe\\SSCafe.UserManagement.Infrastructure\\SSCafe.UserManagement.Infrastructure.csproj",
+              "RelativeToolTip": "SSCafe.UserManagement.Infrastructure\\SSCafe.UserManagement.Infrastructure.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-20T14:12:04.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

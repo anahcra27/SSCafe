@@ -1,0 +1,6 @@
+@SSCafe.APIGateway_HostAddress = http://localhost:5218
+
+GET {{SSCafe.APIGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

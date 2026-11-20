@@ -1,0 +1,15 @@
+F:\onionshop\SS\Backend\SSCafe\SSCafe.UserManagement.Application\obj\Debug\net10.0\SSCafe.UserManagement.Application.csproj.AssemblyReference.cache
+F:\onionshop\SS\Backend\SSCafe\SSCafe.UserManagement.Application\obj\Debug\net10.0\SSCafe.UserManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\onionshop\SS\Backend\SSCafe\SSCafe.UserManagement.Application\obj\Debug\net10.0\SSCafe.UserManagement.Application.AssemblyInfoInputs.cache
+F:\onionshop\SS\Backend\SSCafe\SSCafe.UserManagement.Application\obj\Debug\net10.0\SSCafe.UserManagement.Application.AssemblyInfo.cs
+F:\onionshop\SS\Backend\SSCafe\SSCafe.UserManagement.Application\obj\Debug\net10.0\SSCafe.UserManagement.Application.csproj.CoreCompileInputs.cache
+F:\onionshop\SS\Backend\SSCafe\SSCafe.UserManagement.Application\bin\Debug\net10.0\SSCafe.UserManagement.Application.deps.json
+F:\onionshop\SS\Backend\SSCafe\SSCafe.UserManagement.Application\bin\Debug\net10.0\SSCafe.UserManagement.Application.dll
+F:\onionshop\SS\Backend\SSCafe\SSCafe.UserManagement.Application\bin\Debug\net10.0\SSCafe.UserManagement.Application.pdb
+F:\onionshop\SS\Backend\SSCafe\SSCafe.UserManagement.Application\bin\Debug\net10.0\SSCafe.UserManagement.Domain.dll
+F:\onionshop\SS\Backend\SSCafe\SSCafe.UserManagement.Application\bin\Debug\net10.0\SSCafe.UserManagement.Domain.pdb
+F:\onionshop\SS\Backend\SSCafe\SSCafe.UserManagement.Application\obj\Debug\net10.0\SSCafe.U.F78DE37E.Up2Date
+F:\onionshop\SS\Backend\SSCafe\SSCafe.UserManagement.Application\obj\Debug\net10.0\SSCafe.UserManagement.Application.dll
+F:\onionshop\SS\Backend\SSCafe\SSCafe.UserManagement.Application\obj\Debug\net10.0\refint\SSCafe.UserManagement.Application.dll
+F:\onionshop\SS\Backend\SSCafe\SSCafe.UserManagement.Application\obj\Debug\net10.0\SSCafe.UserManagement.Application.pdb
+F:\onionshop\SS\Backend\SSCafe\SSCafe.UserManagement.Application\obj\Debug\net10.0\ref\SSCafe.UserManagement.Application.dll

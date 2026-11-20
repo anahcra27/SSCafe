@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SSCafe.UserManagement.Application/1.0.0": {
+        "dependencies": {
+          "SSCafe.UserManagement.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SSCafe.UserManagement.Application.dll": {}
+        }
+      },
+      "SSCafe.UserManagement.Domain/1.0.0": {
+        "runtime": {
+          "SSCafe.UserManagement.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SSCafe.UserManagement.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SSCafe.UserManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
